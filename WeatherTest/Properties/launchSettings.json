@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "WeatherTest": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\gabri\\Desktop\\Neuer Ordner - Kopie\\server-files\\server.exe",
+      "workingDirectory": "C:\\Users\\gabri\\Desktop\\Neuer Ordner - Kopie\\server-files"
+    }
+  }
+}

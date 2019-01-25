@@ -1,0 +1,4 @@
+﻿<meta>
+    <info name="WeatherTest" type="script" />
+    <script src="WeatherTest.dll" />
+</meta>
