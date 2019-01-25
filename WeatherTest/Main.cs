@@ -21,7 +21,7 @@ namespace WeatherTest
                 return;
             }
 
-            NAPI.Chat.SendChatMessageToPlayer(sender, $"{weatherId} is not a valid value. Valid values are: {String.Join(", ", Enum.GetNames(typeof(Weather)))}");
+            NAPI.Chat.SendChatMessageToPlayer(sender, $"'{weatherId}' is not a valid value. Valid values are: {String.Join(", ", Enum.GetNames(typeof(Weather)))}");
         }
     }
 }
